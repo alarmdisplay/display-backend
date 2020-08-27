@@ -1,5 +1,6 @@
 # Display  Backend
-[![Build Status](https://travis-ci.com/alarmdisplay/display-backend.svg?branch=develop)](https://travis-ci.com/alarmdisplay/display-backend)
+
+**This repository is now part of https://github.com/alarmdisplay/display**
 
 This component is the connection point for all Display units.
 While it maintains a [Socket.IO](https://socket.io/) connection with the Displays to push updates, it also offers a REST API to manage the Displays and their contents.
